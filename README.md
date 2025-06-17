@@ -6,3 +6,7 @@ The dataset includes multimodal recordings such as transcranial Doppler (TCD), M
 Our analysis focuses on identifying microvascular impairments, altered cerebral perfusion, and neuroanatomical changes linked to T2DM. We apply data cleaning, transformation, 
 and visualization using Power BI and SQL, aiming to derive actionable insights on diabetes-related brain health deterioration and cognitive risk.
 
+Tools & Technologies 
+Data cleaning : power Query
+Visualizations
+Power BI desktop: Data modeling,dashboard development 
